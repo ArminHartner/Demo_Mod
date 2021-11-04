@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model":  "examplemod:block/metal_block"}
+  }
+}

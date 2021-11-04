@@ -1,6 +1,5 @@
 package com.example.examplemod.items;
 
-import net.minecraft.item.ArmorItem;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
 import net.minecraftforge.common.ToolType;

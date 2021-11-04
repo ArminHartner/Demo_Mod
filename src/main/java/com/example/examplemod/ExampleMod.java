@@ -1,5 +1,6 @@
 package com.example.examplemod;
 
+import com.example.examplemod.init.Blockinit;
 import com.example.examplemod.items.ItemInit;
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
@@ -33,6 +34,7 @@ public class ExampleMod
 
         bus.addListener(this::setup);
         ItemInit.ITEMS.register(bus);
+        Blockinit.BLOCKS.register(bus);
 
         // Register the setup method for modloading
         bus.addListener(this::setup);

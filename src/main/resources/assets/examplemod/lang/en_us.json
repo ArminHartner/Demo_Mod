@@ -1,3 +1,6 @@
 {
-  "item.examplemod.key_item": "Golden Key"
+  "item.examplemod.key_item": "Golden Key",
+  "item.examplemod.wolfram_hoe_item": "Wolfram Hoe",
+
+  "block.examplemod.metal_block" : "Metal Block"
 }
